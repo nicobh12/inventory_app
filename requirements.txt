@@ -1,0 +1,33 @@
+#Python 3.13.7
+
+# Interfaz gráfica
+PySide6==6.10.1
+
+# Base de datos
+# sqlite3 viene incluido con Python, no es necesario instalarlo
+
+# Para manipulación de datos y cálculos
+pandas==2.3.3
+numpy==2.3.5
+
+# Para gráficos y reportes
+matplotlib==3.10.7
+openpyxl==3.1.5
+
+# Para manejo de fechas y horas mejorado
+python-dateutil==2.9.0.post0
+
+# Para empaquetar la aplicación
+pyinstaller==6.17.0
+
+# Para manejo de configuraciones
+configparser==7.2.0
+
+# Para manejo de archivos e imágenes
+pillow==12.0.0
+
+# Para logging profesional
+colorlog==6.10.1
+
+# Para validaciones
+email-validator==2.3.0
